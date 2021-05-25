@@ -1,8 +1,8 @@
 # Readme of {{cookiecutter.project}}
 
-This package was made by {{cookiecutter.author}}
+This package was made by {{cookiecutter.author}}.
 
-{%- if cookiecutter.license == "MIT -%"}
+{%- if cookiecutter.license == "MIT" -%}
 
 Content for MIT license.
 
