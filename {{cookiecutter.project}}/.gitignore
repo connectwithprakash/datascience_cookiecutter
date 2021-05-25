@@ -1,0 +1,9 @@
+/data/*
+.idea
+*.ipynb_checkpoints
+*.pyc
+*__pycache__
+/models/*
+/logs/*
+/outputs/*
+!*/gitkeep
