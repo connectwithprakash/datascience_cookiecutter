@@ -6,4 +6,4 @@
 /models/*
 /logs/*
 /outputs/*
-!*/gitkeep
+!*/.gitkeep
