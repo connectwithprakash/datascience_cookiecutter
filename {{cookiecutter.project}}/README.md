@@ -1,4 +1,5 @@
 # {{cookiecutter.project}}
+{{cookiecutter.description}}
 
 ## Project Structure
 
