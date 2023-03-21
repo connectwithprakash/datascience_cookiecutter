@@ -1,5 +1,7 @@
 {
   "project": "project",
+  "description": "desc",
+  "python_ver": "3.10",
   "author": "author(s)",
   "project_slug": "{{cookiecutter.project.lower().replace(' ', '_')}}",
   "license": ["None", "MIT", "BSD"]
