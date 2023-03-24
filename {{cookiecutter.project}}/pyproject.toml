@@ -8,7 +8,7 @@ readme = "README.md"
 packages = [{include = "{{cookiecutter.project}}"}]
 
 [tool.poetry.dependencies]
-python = "{{cookiecutter.python_version}}"
+python = "{{cookiecutter.python_ver}}"
 
 
 [build-system]
